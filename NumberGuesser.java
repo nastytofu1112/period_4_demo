@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * A basic Number Guesser game.
  *
- * @author David Herring
+ * @author Joseph Stalin
  * @version 3/11/19
  */
 public class NumberGuesser
